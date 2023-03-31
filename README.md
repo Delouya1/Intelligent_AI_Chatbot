@@ -39,3 +39,9 @@ This project requires the following Python libraries to be installed:
 
 The intents.json file should contain a list of intents, where each intent contains a tag, a list of patterns, and a list of responses. The patterns and responses should be specified as strings. 
 The intents.json file should be located in the same directory as the training.py and chatbot.py scripts.
+
+
+
+https://user-images.githubusercontent.com/105711580/229051458-f145fc06-49ef-498e-9eaf-71da55eb4098.mov
+
+
